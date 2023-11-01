@@ -1,6 +1,6 @@
 # Sunny Surfboards 3.0
 
-A simple calculator made while on a software development bootcamp with Sheffield College in December 2022.
+A simple WinForms calculator made while on a software development bootcamp with Sheffield College in December 2022.
 
 Users can calculate the cost of renting various sizes of surfboards and wetsuits.
 
